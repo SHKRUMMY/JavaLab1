@@ -17,7 +17,7 @@ public record PrinterRecord(String name, float effectvity, float price, String c
 
 	private static int VOLTAGE = 220;	// Static field, spelled in Upper case.
 
-	public static int getStatic() {		//Static method, which returns static field
+	public static int getVoltage() {		//Static method, which returns static field
 		return VOLTAGE;
 	}
 
