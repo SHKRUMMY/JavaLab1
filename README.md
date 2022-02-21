@@ -7,4 +7,4 @@ Package includes Main.java and PrinterRecord.java files.
 
 To compile the programm: javac Path\To\The\Programm\*.java in cmd prompt (Path includes package)
 
-To run the programm: java Path\To\The\Programm\Main.java in cmd prompt (Path includes package)
+To run the programm: java Path\To\The\Programm\Main in cmd prompt (Path includes package)
