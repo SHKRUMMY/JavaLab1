@@ -1,10 +1,5 @@
-package com.lviv.iot.lab2.hierarchy;
+package com.lviv.iot.lab2.models;
 import java.time.LocalDate;
-
-import com.lviv.iot.lab2.enums.DebtSecuritiesType;
-import com.lviv.iot.lab2.enums.EquitySecuritiesType;
-import com.lviv.iot.lab2.enums.RiskLevel;
-import com.lviv.iot.lab2.enums.StockTrend;
 
 
 

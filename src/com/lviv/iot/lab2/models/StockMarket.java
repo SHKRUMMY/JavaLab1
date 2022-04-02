@@ -1,7 +1,5 @@
-package com.lviv.iot.lab2.StockMarket;
+package com.lviv.iot.lab2.models;
 import java.util.ArrayList;
-
-import com.lviv.iot.lab2.hierarchy.Securities;
 
 
 public class StockMarket {

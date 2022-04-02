@@ -2,7 +2,7 @@ package com.lviv.iot.lab2.Manager;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.lviv.iot.lab2.hierarchy.Securities;
+import com.lviv.iot.lab2.models.Securities;
 
 public class SecuritiesManager{
 	ArrayList<Securities> securitiesList;
